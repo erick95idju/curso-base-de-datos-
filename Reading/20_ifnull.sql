@@ -1,0 +1,3 @@
+--DEVUELVE LOS REGISTROS QUE TENGAN UN VALOR NULL EN UN CAMPO(COLUMNA)
+SELECT name, apellidos, IFNULL(age, 0) AS edad FROM hello_mysql.users;
+
