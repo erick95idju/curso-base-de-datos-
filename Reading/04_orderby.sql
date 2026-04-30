@@ -1,3 +1,4 @@
 --ORDER BY DE FORMA ORDENADA DE FORMA ACENDENTE
+--
 SELECT * FROM users ORDER BY age DESC;
 SELECT * FROM users WHERE email = 'miriam@gmail.com' ORDER BY age ASC;
