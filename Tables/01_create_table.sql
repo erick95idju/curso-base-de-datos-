@@ -77,3 +77,5 @@ UNIQUE (id),
 PRIMARY KEY(id),
 CHECK (age>=18)
 );
+
+
